@@ -87,9 +87,9 @@ I'm a passionate **Full-Stack Web Developer** with a focus on building scalable 
 
 ### 📫 Let’s Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/jeremiahbankole)  
-- 📧 jeremiahbankole@example.com *(replace with actual email)*  
-- 🌐 [Portfolio Website](https://yourportfolio.com) *(if available)*
+- 💼 [LinkedIn](https://linkedin.com/in/jeremiah-bankole)  
+- 📧 bankolejeremiahadeoye@gmail.com  
+- 🌐 [Portfolio Website](https://jeremiah-bankole.vercel.app)
 
 ---
 
