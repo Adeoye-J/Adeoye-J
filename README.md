@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there 👋, I'm Jeremiah Bankole</h1>
-<h3 align="center">Full-Stack MERN Developer | Problem Solver | Tech Educator</h3>
+<h3 align="center">Full-Stack MERN Developer | Data Analyst - (Freelance) | Problem Solver | Tech Educator</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jeremiahbankole&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
