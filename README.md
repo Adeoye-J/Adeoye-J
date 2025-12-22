@@ -35,8 +35,60 @@ I'm a passionate **Full-Stack Web Developer** with a focus on building scalable 
 
 ---
 
-### 🛠 Tech Stack & Tools
+## 🛠 Technical Skills
 
+### Frontend Development
+- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3  
+- **Frameworks & Libraries:** React.js, **Next.js**, Redux Toolkit, Context API  
+- **Styling:** Tailwind CSS, CSS Modules, SCSS  
+- **Build & Tooling:** Vite, Webpack  
+- **UI/UX:** Responsive Design, Mobile-First Design, Accessibility (a11y)  
+- **State & Data:** Client-Side State Management, API Consumption, Pagination, Filtering
+
+---
+
+### Backend Development
+- **Runtime & Frameworks:** Node.js, Express.js  
+- **API Design:** RESTful APIs, MVC Architecture  
+- **Authentication & Security:** JWT, Sessions, Password Hashing, Role-Based Access Control (RBAC)  
+- **Validation:** express-validator, Input Sanitization  
+- **File Handling:** Image Uploads, Cloudinary Integration  
+- **Error Handling:** Centralized Error Handling, Logging
+
+---
+
+### Databases & Data
+- **Databases:** MongoDB, Mongoose ODM  
+- **Data Modeling:** Schema Design, Relationships, Indexing  
+- **Querying:** Aggregation Pipelines, Pagination, Search  
+- **Data Analysis:** Data Cleaning, Basic Statistical Analysis
+
+---
+
+### DevOps & Deployment
+- **Version Control:** Git, GitHub (PRs, Code Reviews)  
+- **Deployment Platforms:** Vercel, Render, Railway  
+- **Environment Management:** Environment Variables, Secrets Management  
+- **CI/CD (Basic):** Automated Builds & Deployments  
+- **Performance:** Lazy Loading, Code Splitting
+
+---
+
+### Testing & Quality
+- **Testing (Basic):** Unit Testing, API Testing  
+- **Tools:** Postman  
+- **Code Quality:** Modular Architecture, Reusable Components, Clean Code Practices
+
+---
+
+### Tools, Practices & Collaboration
+- **Design Tools:** Figma  
+- **APIs:** Third-Party API Integration (REST)  
+- **Documentation:** API Documentation, Technical Writing  
+- **Workflow:** Agile / Scrum, Task Breakdown, Sprint Planning  
+- **Mentorship:** Technical Teaching, Knowledge Sharing
+
+<!--
 **Frontend:**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)  
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat)  
@@ -58,6 +110,7 @@ I'm a passionate **Full-Stack Web Developer** with a focus on building scalable 
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat)
 
 ---
+-->
 
 ### 📌 Featured Projects
 
