@@ -114,18 +114,15 @@ I'm a passionate **Full-Stack Web Developer** with a focus on building scalable 
 
 ### 📌 Featured Projects
 
-- 🔐 **Let's Talk - A social media platform**  
-  A full-stack platform for sharing, viewing and collaboration.  
-  Technologies: React, Node, Express, MongoDB, Cloudinary, Appwrite, TypeScript
-  _Status: In Progress_ | [GitHub](https://github.com/Adeoye-J/Let-sTalk) | [Live Link](#)
+- 🔐 **Perfect Receipt (Full Stack) project**  
+  Perfect Receipt is an app that helps you generate and manage invoices and receipts for your business transactions.  
+  Technologies: React, Node, Express, MongoDB, Cloudinary, Tailwind CSS, Context API, Axios, Json Web Token, Paystack, Google OAuth
+  [GitHub](https://github.com/Adeoye-J/Perfect-Receipt) | [Live Link](https://perfectreceipt.com/)
 
-- ✈️ **CareSync - Doctor's Appointments Made Easy**  
-  A platform that helps patients book appointments with doctors and specialists.  
-  _Built with React.js + JSON Data + Tailwind CSS_ | [GitHub](https://github.com/Adeoye-J/CareSync) | [Live Link](https://caresync-frontend.onrender.com/)
-
-- 📚 **BlogSphere**  
-  A blog hub for reading, commenting, and discovering similar books from favorite authors.  
-  _React, JSON, Responsive UI_ | [GitHub](https://github.com/Adeoye-J/Elevate) | [Live Link](https://elevate-lemon.vercel.app/)
+- ✈️ **Telex (Full Stack)**  
+  Get real time notifications, monitor your apps, and communicate with your team, using Telex app.
+  Technologies: Next, TypeScript, Tailwind CSS, Radix UI, Framer Motion  
+ [GitHub](https://github.com/telexorg/telex_fe) | [Live Link](https://telex.im/)
 
 ---
 
