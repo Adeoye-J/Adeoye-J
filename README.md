@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 I'm a passionate **Full-Stack Web Developer** with a focus on building scalable web applications using the **MERN stack (MongoDB, Express.js, React, Node.js)**. I enjoy solving real-world problems through code and have led and contributed to multiple projects from design to deployment.
 
 - 🌍 Based in Nigeria | Open to **Remote** and **On-site** roles  
-- 🎯 Currently leading the development of **Code with Jeremiah** for learners across all levels  
+- 🎯 Currently leading the development of **EduCustom** and **Code with Jeremiah** for learners across all levels  
 - 🛠 Skilled in **RESTful APIs**, **Authentication**, **State Management**, and **Modern UI/UX Design**  
 - 🚀 Seeking more opportunities in **Product-Focused Teams**, **Startups**, and **EdTech/SmartTech** spaces
 
